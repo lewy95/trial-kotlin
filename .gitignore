@@ -1,0 +1,8 @@
+*.class
+**/build/*
+**/out/*
+.gradle
+.git
+.idea
+.svn
+**/lua/Battle
